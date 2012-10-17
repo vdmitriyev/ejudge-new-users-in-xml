@@ -1,0 +1,150 @@
+<user id="2001" registered="2012/04/20 00:00:00" last_login="2012/04/20 01:00:00">
+	<login public="no">K001</login>
+	<password method="plain">Htx8JWl1</password>
+	<email public="no">v.dmitriyev@iitu.kz</email>
+	<contests>
+		<contest id="13" status="ok" date="2012/04/21 02:00:00"/>
+	</contests>
+	<cntsinfos>
+		<cntsinfo contest_id="13" cnts_last_login="2012/04/21 02:00:00" last_info_change="2012/04/21 02:00:00">
+			<name>Участник 01</name>
+			<inst>МУИТ</inst>
+			<city>Алматы</city>
+		</cntsinfo>
+	</cntsinfos>
+</user>
+<user id="2002" registered="2012/04/20 00:00:00" last_login="2012/04/20 01:00:00">
+	<login public="no">K002</login>
+	<password method="plain">6ki2PsKo</password>
+	<email public="no">v.dmitriyev@iitu.kz</email>
+	<contests>
+		<contest id="13" status="ok" date="2012/04/21 02:00:00"/>
+	</contests>
+	<cntsinfos>
+		<cntsinfo contest_id="13" cnts_last_login="2012/04/21 02:00:00" last_info_change="2012/04/21 02:00:00">
+			<name>Участник 02</name>
+			<inst>МУИТ</inst>
+			<city>Алматы</city>
+		</cntsinfo>
+	</cntsinfos>
+</user>
+<user id="2003" registered="2012/04/20 00:00:00" last_login="2012/04/20 01:00:00">
+	<login public="no">K003</login>
+	<password method="plain">O8SYg345</password>
+	<email public="no">v.dmitriyev@iitu.kz</email>
+	<contests>
+		<contest id="13" status="ok" date="2012/04/21 02:00:00"/>
+	</contests>
+	<cntsinfos>
+		<cntsinfo contest_id="13" cnts_last_login="2012/04/21 02:00:00" last_info_change="2012/04/21 02:00:00">
+			<name>Участник 03</name>
+			<inst>МУИТ</inst>
+			<city>Алматы</city>
+		</cntsinfo>
+	</cntsinfos>
+</user>
+<user id="2004" registered="2012/04/20 00:00:00" last_login="2012/04/20 01:00:00">
+	<login public="no">K004</login>
+	<password method="plain">NY0G6JlF</password>
+	<email public="no">v.dmitriyev@iitu.kz</email>
+	<contests>
+		<contest id="13" status="ok" date="2012/04/21 02:00:00"/>
+	</contests>
+	<cntsinfos>
+		<cntsinfo contest_id="13" cnts_last_login="2012/04/21 02:00:00" last_info_change="2012/04/21 02:00:00">
+			<name>Участник 04</name>
+			<inst>МУИТ</inst>
+			<city>Алматы</city>
+		</cntsinfo>
+	</cntsinfos>
+</user>
+<user id="2005" registered="2012/04/20 00:00:00" last_login="2012/04/20 01:00:00">
+	<login public="no">K005</login>
+	<password method="plain">X34p0L9y</password>
+	<email public="no">v.dmitriyev@iitu.kz</email>
+	<contests>
+		<contest id="13" status="ok" date="2012/04/21 02:00:00"/>
+	</contests>
+	<cntsinfos>
+		<cntsinfo contest_id="13" cnts_last_login="2012/04/21 02:00:00" last_info_change="2012/04/21 02:00:00">
+			<name>Участник 05</name>
+			<inst>МУИТ</inst>
+			<city>Алматы</city>
+		</cntsinfo>
+	</cntsinfos>
+</user>
+<user id="2006" registered="2012/04/20 00:00:00" last_login="2012/04/20 01:00:00">
+	<login public="no">K006</login>
+	<password method="plain">L87P8tD4</password>
+	<email public="no">v.dmitriyev@iitu.kz</email>
+	<contests>
+		<contest id="13" status="ok" date="2012/04/21 02:00:00"/>
+	</contests>
+	<cntsinfos>
+		<cntsinfo contest_id="13" cnts_last_login="2012/04/21 02:00:00" last_info_change="2012/04/21 02:00:00">
+			<name>Участник 06</name>
+			<inst>МУИТ</inst>
+			<city>Алматы</city>
+		</cntsinfo>
+	</cntsinfos>
+</user>
+<user id="2007" registered="2012/04/20 00:00:00" last_login="2012/04/20 01:00:00">
+	<login public="no">K007</login>
+	<password method="plain">ak69vbC0</password>
+	<email public="no">v.dmitriyev@iitu.kz</email>
+	<contests>
+		<contest id="13" status="ok" date="2012/04/21 02:00:00"/>
+	</contests>
+	<cntsinfos>
+		<cntsinfo contest_id="13" cnts_last_login="2012/04/21 02:00:00" last_info_change="2012/04/21 02:00:00">
+			<name>Участник 07</name>
+			<inst>МУИТ</inst>
+			<city>Алматы</city>
+		</cntsinfo>
+	</cntsinfos>
+</user>
+<user id="2008" registered="2012/04/20 00:00:00" last_login="2012/04/20 01:00:00">
+	<login public="no">K008</login>
+	<password method="plain">km68PKZ9</password>
+	<email public="no">v.dmitriyev@iitu.kz</email>
+	<contests>
+		<contest id="13" status="ok" date="2012/04/21 02:00:00"/>
+	</contests>
+	<cntsinfos>
+		<cntsinfo contest_id="13" cnts_last_login="2012/04/21 02:00:00" last_info_change="2012/04/21 02:00:00">
+			<name>Участник 08</name>
+			<inst>МУИТ</inst>
+			<city>Алматы</city>
+		</cntsinfo>
+	</cntsinfos>
+</user>
+<user id="2009" registered="2012/04/20 00:00:00" last_login="2012/04/20 01:00:00">
+	<login public="no">K009</login>
+	<password method="plain">yc5x31m9</password>
+	<email public="no">v.dmitriyev@iitu.kz</email>
+	<contests>
+		<contest id="13" status="ok" date="2012/04/21 02:00:00"/>
+	</contests>
+	<cntsinfos>
+		<cntsinfo contest_id="13" cnts_last_login="2012/04/21 02:00:00" last_info_change="2012/04/21 02:00:00">
+			<name>Участник 09</name>
+			<inst>МУИТ</inst>
+			<city>Алматы</city>
+		</cntsinfo>
+	</cntsinfos>
+</user>
+<user id="2010" registered="2012/04/20 00:00:00" last_login="2012/04/20 01:00:00">
+	<login public="no">K010</login>
+	<password method="plain">t9N1x5U8</password>
+	<email public="no">v.dmitriyev@iitu.kz</email>
+	<contests>
+		<contest id="13" status="ok" date="2012/04/21 02:00:00"/>
+	</contests>
+	<cntsinfos>
+		<cntsinfo contest_id="13" cnts_last_login="2012/04/21 02:00:00" last_info_change="2012/04/21 02:00:00">
+			<name>Участник 10</name>
+			<inst>МУИТ</inst>
+			<city>Алматы</city>
+		</cntsinfo>
+	</cntsinfos>
+</user>
